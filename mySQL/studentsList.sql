@@ -1,3 +1,9 @@
+
+
+--------------------------------------------------------- CREATE TABLE 
+
+
+
 CREATE TABLE `school`.`students` ( `id` INT NOT NULL AUTO_INCREMENT , `name` VARCHAR(30) NOT NULL , `city` VARCHAR(30) NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
 
 CREATE TABLE `school`.`languages` ( `id` INT NOT NULL , `Name` VARCHAR(30) NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
@@ -8,7 +14,7 @@ CREATE TABLE `school`.`students_languages` ( `id` INT NOT NULL AUTO_INCREMENT , 
 
 
 
-
+----------------------------------------------------------- INSERT INTO
 
 
 
